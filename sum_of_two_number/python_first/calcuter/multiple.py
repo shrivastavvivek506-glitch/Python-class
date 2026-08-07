@@ -13,4 +13,4 @@ class color(brand, modal):
         print("Color Name:", self.color_name)
 
 c_obj = color()
-print(c_obj.display())
+c_obj.display()
