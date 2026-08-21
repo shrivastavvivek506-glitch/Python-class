@@ -33,7 +33,7 @@ class BankAccount:
 # Example usage
 acc1 = BankAccount(24362783, "Vivek", 1000, 350034)
 
-acc1.deposit(500)            # Deposit money
+acc1.deposit(67887)            # Deposit money
 acc1.withdraw(300, 350034)    # Correct PIN
 acc1.withdraw(200, 1111)    # Wrong PIN
 acc1.show_balance()         # Show balance
