@@ -10,6 +10,10 @@ print(main_list)
 
 # ------------------------------------------
 
-main_list_1 = [12,2332,44,32234,2.213,3234 ]
+list1 = [12,2332,44,32234,2.213,3234]
 
-print(main_list_1.remove(12))
+print(list1)
+
+list1.remove(2332)
+
+print(list1)
