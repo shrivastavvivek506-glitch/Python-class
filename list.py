@@ -17,3 +17,9 @@ print(list1)
 list1.remove(2332)
 
 print(list1)
+
+#-------------------------------------------
+
+list = [ 112,23332,"vivek","whdb"]
+
+print(list)
