@@ -3,3 +3,11 @@ print("befor opertion",my_list)
 
 my_list.append(1234.43210)
 print("after opertion",my_list)
+
+# ------------------------------------------------
+
+my_list_1 = ["Vivek","Sonakshi","Sona"]
+print("befor opertion",my_list_1)
+
+my_list_1.remove("Sona")
+print("after opertion",my_list_1)
